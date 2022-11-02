@@ -1,25 +1,12 @@
-- 👋 Hi, I’m @Abdelaziz-Elshrkawy
-- 😎 I’m a career changer (Chemist) to web Development
-- 🌱 I Have Completed the [Udacity](https://www.udacity.com/) Full stack nano Degree, I learned and worked with: <br>
-   1- [Node.js](https://nodejs.org/).<br>
-   2- [Express.js](https://expressjs.com/).<br>
-   3- [Jasmine](https://jasmine.github.io/).<br>
-   4- [PostgreSQL](https://www.postgresql.org/).<br>
-   5- [CircleCI](https://circleci.com/).<br>
-   6- [Postman](https://www.postman.com/).<br>
-   7- [AWS(RDS, EB, S3)](https://aws.amazon.com/).
-   * Across learning journey I successful completed projects as following: <br>
-   1-[Image Processing  API](https://github.com/Abdelaziz-Elshrkawy/Imag-Processing-API). <br>
-   2-[Store Front API](https://github.com/Abdelaziz-Elshrkawy/Strore-Front-API).<br>
-   3-[Hosting Full Stack Website](https://github.com/Abdelaziz-Elshrkawy/Hosting-a-Full-Stack-Application). Note: this project provided to me to initialize CI/CD pipeline 
-- 🙌 I’m looking for Full time Node.js Position to upscale my skills to bigger and complex project and learn from experts, solving problems seems stressful but I am a fighter at this point who will not stop until solving or even contribute to any part that helps solve the problem because the more important than only working is to get the job done perfectly as desired.
+<h1 align="center">Hi 👋, I'm Abdelaziz Elshrkawy</h1>
+<h3 align="center">I am A career changer and passionate Javascript Developer </h3>
 
-- 📫 How to reach me <br>
- 1- abdelaziz_elshrkawy53@yahoo.com.<br>
- 2- [LinkedIn](https://www.linkedin.com/in/abdelaziz-elshrkawy-5b6888146).<br>
- 3-[Facebook](https://www.facebook.com/zezo.elsharkawy/).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelaziz-abdelllatif-5b6888146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelaziz-abdelllatif-5b6888146/" height="30" width="40" /></a>
+</p>
 
-<!---
-Abdelaziz-Elshrkawy/Abdelaziz-Elshrkawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelaziz-elshrkawy&show_icons=true&locale=en&layout=compact" alt="abdelaziz-elshrkawy" /></p>
