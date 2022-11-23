@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Elshrkawy</h1>
-<h3 align="center">I am A career changer and passionate Javascript Developer</h3>
+<h3 align="center">I am a career changer and passionate Javascript Developer</h3>
 
 - 📫 How to reach me **abdelaziz_elshrkawy53@yahoo.com or abdelazizelshrkawy539960@gmail.com**
 
