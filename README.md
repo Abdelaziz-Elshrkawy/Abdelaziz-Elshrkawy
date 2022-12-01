@@ -6,10 +6,12 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kWHapGO0FfpJzy1EK26kz1etRbuPoMX6/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<span align="left">
 <a href="https://www.linkedin.com/in/abdelaziz-abdelllatif-5b6888146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelaziz-abdelllatif-5b6888146/" height="30" width="40" /></a>
-</p>
-
+</span>
+<span align="left">
+<a href="https://fb.com/https://www.facebook.com/zezo.elsharkawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zezo.elsharkawy/" height="30" width="40" /></a>
+</span>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
