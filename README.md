@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **abdelaziz_elshrkawy53@yahoo.com or abdelazizelshrkawy539960@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kWHapGO0FfpJzy1EK26kz1etRbuPoMX6/view?usp=share_link)
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1kWHapGO0FfpJzy1EK26kz1etRbuPoMX6/view?usp=share_link' target='blank'>My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
