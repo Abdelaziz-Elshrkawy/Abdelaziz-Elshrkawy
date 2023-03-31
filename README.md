@@ -3,7 +3,8 @@
 
 - 📫 How to reach me **abdelaziz_elshrkawy53@yahoo.com or abdelazizelshrkawy539960@gmail.com**
 
-- 📄 Know about my experiences <strong>[My Resume](https://drive.google.com/file/d/1kWHapGO0FfpJzy1EK26kz1etRbuPoMX6/view?usp=share_link)</strong>, <strong>[My Portfolio](https://portfolioo.abdelaziz-elshr.repl.co)</strong>
+- 📄 Know about my experiences<br>
+<strong>[<img src='https://s3.amazonaws.com/mychurchwebsite/images/c6466/cstmmod_riawiv.png' style='width: 160px; height: 60px;'>](https://drive.google.com/file/d/1kWHapGO0FfpJzy1EK26kz1etRbuPoMX6/view?usp=share_link)</strong><br><br><strong>[<img src='https://th.bing.com/th/id/R.9ec6da0d55fe8f3b2c8bc5494fb38300?rik=3fNYdHxHhFB%2f%2bw&riu=http%3a%2f%2ffiles.softicons.com%2fdownload%2finternet-cons%2fpractika-icons-by-dryicons%2fpng%2f256%2fportfolio.png&ehk=uGjdsHWu727zQTgkAtG7etJN3bOxO2ihxa4iHcrqHCk%3d&risl=&pid=ImgRaw&r=0' style='width: 80px; height: 80px;'>](https://portfolioo.abdelaziz-elshr.repl.co)</strong>
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
