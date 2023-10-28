@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
-<div style="text-align: center"> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="width: 200px;"></div>
+<div style="text-align: center"> <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="width: 200px;"></div>
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 <h1 align="center">I'am Abdelaziz</h1>
 <h3 align="center">I am a career changer and passionate Javascript Developer</h3>
