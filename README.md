@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
-<h1 align="center">I'am Abdelaziz</h1>
-<h3 align="center">a career changer and passionate Javascript Developer</h3>
+<h1 align="center">I'am Abdelaziz a career changer and passionate Javascript Developer</h1>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
 
 - 📫 How to reach me **abdelaziz.abdellatif0@gmail.com**
 
