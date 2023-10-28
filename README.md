@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abdelaziz Elshrkawy</h1>
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="width: 50px;"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"> I'm Abdelaziz Elshrkawy</h1>
+
+
 <h3 align="center">I am a career changer and passionate Javascript Developer</h3>
+
 
 - 📫 How to reach me **abdelaziz.abdellatif0@gmail.com**
 
-- 📄 Know about my experiences<br>
-<strong>[<img src='https://s3.amazonaws.com/mychurchwebsite/images/c6466/cstmmod_riawiv.png' style='width: 160px; height: 60px;'>](https://drive.google.com/file/d/1Cnj4DMBweyP3vBdNGVqEkR5fHsN-1kJP/view?usp=share_link)</strong><br><br><strong>[<img src='https://th.bing.com/th/id/R.9ec6da0d55fe8f3b2c8bc5494fb38300?rik=3fNYdHxHhFB%2f%2bw&riu=http%3a%2f%2ffiles.softicons.com%2fdownload%2finternet-cons%2fpractika-icons-by-dryicons%2fpng%2f256%2fportfolio.png&ehk=uGjdsHWu727zQTgkAtG7etJN3bOxO2ihxa4iHcrqHCk%3d&risl=&pid=ImgRaw&r=0' style='width: 80px; height: 80px;'>](https://portfolioo.abdelaziz-elshr.repl.co)</strong>
+- 📄 Know about my experiences [<strong>[Resume](https://drive.google.com/file/d/1Cnj4DMBweyP3vBdNGVqEkR5fHsN-1kJP/view?usp=share_link)</strong>] [<strong>[Portfolio](https://portfolioo.abdelaziz-elshr.repl.co)</strong>]
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
