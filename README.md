@@ -40,6 +40,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 &nbsp;
+<img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
 </p>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz-elshrkawy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-elshrkawy" /> </p>
@@ -49,7 +50,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-elshrkawy&theme=dark" alt="abdelaziz-elshrkawy" /></p>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-elshrkawy&show_icons=true&locale=en&theme=dark" alt="abdelaziz-elshrkawy" /></p>
 <br>
