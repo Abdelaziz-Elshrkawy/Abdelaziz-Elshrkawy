@@ -48,8 +48,8 @@
 <br/>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-elshrkawy&theme=dark" alt="abdelaziz-elshrkawy" /></p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-elshrkawy&show_icons=true&locale=en&theme=dark" alt="abdelaziz-elshrkawy" /></p>
 <br>
