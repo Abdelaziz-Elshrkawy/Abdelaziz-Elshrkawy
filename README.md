@@ -41,11 +41,6 @@
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 &nbsp;
 </p>-->
-<br>
-<br>
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz-elshrkawy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-elshrkawy" /> </p>
 <br/>
@@ -53,6 +48,7 @@
 <br/>
 
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-elshrkawy&theme=dark" alt="abdelaziz-elshrkawy" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-elshrkawy&show_icons=true&locale=en&theme=dark" alt="abdelaziz-elshrkawy" /></p>
