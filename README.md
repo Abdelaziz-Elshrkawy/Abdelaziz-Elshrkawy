@@ -42,7 +42,8 @@
 &nbsp;
 <img align="right" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"/>
 </p>-->
-
+<br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz-elshrkawy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-elshrkawy" /> </p>
 <br/>
 <br/>
