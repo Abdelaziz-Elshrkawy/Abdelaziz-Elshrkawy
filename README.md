@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abdelaziz.abdellatif0@gmail.com**
 
-- 📄 Know about my experiences [<strong>[Resume](https://drive.google.com/file/d/1Cnj4DMBweyP3vBdNGVqEkR5fHsN-1kJP/view?usp=share_link)</strong>] [<strong>[Portfolio](https://portfolio-yrox.onrender.com/)</strong>]
+- 📄 Know about my experiences [<strong>[Resume](https://drive.google.com/file/d/1TSg-YlhMY6uxrRI0C2Zc0MhZwx1zuS9l/view?usp=drive_link)</strong>] [<strong>[Portfolio](https://portfolio-yrox.onrender.com/)</strong>]
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
