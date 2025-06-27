@@ -4,8 +4,6 @@
 
 <h3 align="center">👨‍💻 a career changer and passionate Javascript Developer</h3>
 
-
-
 - 📫 How to reach me **abdelaziz.abdellatif0@gmail.com**
 
 - 📄 Know about my experiences [<strong>[Resume](https://drive.google.com/file/d/1TSg-YlhMY6uxrRI0C2Zc0MhZwx1zuS9l/view?usp=drive_link)</strong>] [<strong>[Portfolio](https://portfolio-yrox.onrender.com/)</strong>]
@@ -44,11 +42,10 @@
 </p>-->
 <br/>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz-elshrkawy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-elshrkawy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz-elshrkawy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-elshrkawy" /></p>
 <br/>
 <br/>
 <br/>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-elshrkawy&theme=dark" alt="abdelaziz-elshrkawy" /></p>
 <br>
