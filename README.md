@@ -18,11 +18,65 @@
 <a href="https://www.facebook.com/zezo.elsharkawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zezo.elsharkawy/" height="30" width="40" /></a>
 </span>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+
+<h4 align="left">Languages</h4>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,git,github,aws,nodejs,react,redux,angular,expressjs,mongodb,postgresql,mysql,linux,neovim,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,latex,java,graphql" />
   </a>
 </p>
+
+<h4 align="left">Databases</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
+  </a>
+</p>
+
+<h4 align="left">Frontend</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular" />
+  </a>
+</p>
+
+<h4 align="left">Backend</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs" />
+  </a>
+</p>
+
+<h4 align="left">3D / Graphics</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=threejs,blender" />
+  </a>
+</p>
+
+<h4 align="left">Desktop Development</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=electron" />
+  </a>
+</p>
+
+<h4 align="left">Build Tools</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webpack,vite,babel" />
+  </a>
+</p>
+
+<h4 align="left">DevOps / Tools</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,linux,arch,neovim,vscode,webstorm,postman,powershell,bash" />
+  </a>
+</p>
+
+
+
 <!-- <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -49,6 +103,9 @@
 <br/>
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-elshrkawy&theme=dark" alt="abdelaziz-elshrkawy" /></p>
 <br>
