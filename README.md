@@ -22,7 +22,7 @@
 <h4 align="left">Languages</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,latex,java,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,c,go,java,latex" />
   </a>
 </p>
 
