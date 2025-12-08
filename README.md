@@ -36,7 +36,7 @@
 <h4 align="left">Frontend</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,materialui" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 <h4 align="left">DevOps / Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,linux,arch,neovim,vscode,webstorm,postman,powershell,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,linux,arch,ubuntu,neovim,vscode,webstorm,postman,powershell,bash" />
   </a>
 </p>
 
