@@ -98,16 +98,17 @@
 </p>-->
 <br/>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz-elshrkawy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-elshrkawy" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz-elshrkawy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-elshrkawy" /> </p> -->
 <br/>
 <br/>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdelaziz-elshrkawy)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=abdelaziz-elshrkawy)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-elshrkawy&theme=dark" alt="abdelaziz-elshrkawy" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-elshrkawy&theme=dark" alt="abdelaziz-elshrkawy" /></p> -->
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-elshrkawy&show_icons=true&locale=en&theme=dark" alt="abdelaziz-elshrkawy" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-elshrkawy&show_icons=true&locale=en&theme=dark" alt="abdelaziz-elshrkawy" /></p> -->
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelaziz-elshrkawy&show_icons=true&locale=en&layout=compact&theme=dark" alt="abdelaziz-elshrkawy" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelaziz-elshrkawy&show_icons=true&locale=en&layout=compact&theme=dark" alt="abdelaziz-elshrkawy" /></p> -->
